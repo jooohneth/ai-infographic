@@ -22,7 +22,7 @@ export default function Home() {
           How AI Transformed Software Engineering
         </h1>
         <p className="text-xl md:text-2xl text-gray-700 max-w-3xl mx-auto">
-          A visual exploration of artificial intelligence's impact on the
+          A visual exploration of artificial intelligence&apos;s impact on the
           software development landscape
         </p>
       </header>
@@ -200,34 +200,34 @@ export default function Home() {
         <ul className="space-y-3 text-gray-700">
           <li>
             <p>
-              <strong>McKinsey & Company. (2023).</strong> "The economic
-              potential of generative AI: The next productivity frontier."
+              <strong>McKinsey & Company. (2023).</strong> &ldquo;The economic
+              potential of generative AI: The next productivity frontier.&rdquo;
               Retrieved from McKinsey Digital.
             </p>
           </li>
           <li>
             <p>
-              <strong>GitHub. (2023).</strong> "The State of the Octoverse: AI
-              in software development." GitHub Blog.
+              <strong>GitHub. (2023).</strong> &ldquo;The State of the
+              Octoverse: AI in software development.&rdquo; GitHub Blog.
             </p>
           </li>
           <li>
             <p>
-              <strong>IEEE. (2022).</strong> "AI-Assisted Software Engineering:
-              A Comprehensive Survey." IEEE Transactions on Software
-              Engineering.
+              <strong>IEEE. (2022).</strong> &ldquo;AI-Assisted Software
+              Engineering: A Comprehensive Survey.&rdquo; IEEE Transactions on
+              Software Engineering.
             </p>
           </li>
           <li>
             <p>
-              <strong>Stack Overflow. (2023).</strong> "Developer Survey 2023:
-              AI tools usage and impact." Stack Overflow Insights.
+              <strong>Stack Overflow. (2023).</strong> &ldquo;Developer Survey
+              2023: AI tools usage and impact.&rdquo; Stack Overflow Insights.
             </p>
           </li>
           <li>
             <p>
-              <strong>Gartner. (2023).</strong> "Impact of AI on Software
-              Development Productivity." Gartner Research.
+              <strong>Gartner. (2023).</strong> &ldquo;Impact of AI on Software
+              Development Productivity.&rdquo; Gartner Research.
             </p>
           </li>
         </ul>
