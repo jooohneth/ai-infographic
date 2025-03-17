@@ -15,7 +15,7 @@ import {
 
 export default function Home() {
   return (
-    <div className="mx-auto w-[60%] min-h-screen bg-white text-black p-4 md:p-8 lg:p-12 border-5 border-black my-12">
+    <div className="mx-auto w-[90%] md:w-[60%] min-h-screen bg-white text-black p-4 md:p-8 lg:p-12 border-5 border-black my-12">
       {/* Header */}
       <header className="mb-12 text-center">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight mb-4">
